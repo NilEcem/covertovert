@@ -6,7 +6,7 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Ahmet Kaan Sahiner, Nil Ecem Tokat. Group id: 39
 
 
 .. toctree::
